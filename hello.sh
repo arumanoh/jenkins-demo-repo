@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Hello from Jenkins pipeline!"
+echo "Build triggered at: $(date)"
+echo "Running on host: $(hostname)"
